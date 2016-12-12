@@ -1,2 +1,5 @@
 # hello-world
-This is a repository name
+
+Hello Fellow Beings
+
+Maeamoo present, i like code ;)
